@@ -40,13 +40,13 @@ node server.js
 
 
 ## Functionality
-![](assets/function.gif.gif)
+![](./assets/function.gif.gif)
 
-![](assets/landingpage.png)
+![](./assets/landingpage.png)
 
-![](assets/image1.png)
+![](./assets/image1.png)
 
-![](assets/image2.png)
+![](./assets/image2.png)
 
 
 ## Technologies Used
