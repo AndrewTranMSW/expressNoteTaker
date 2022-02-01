@@ -2,7 +2,7 @@
 
 ### Github : https://github.com/AndrewTranMSW/expressNoteTaker
 
-### Deployed Application (Heroku) : https://git.heroku.com/secret-temple-21796.git
+### Deployed Application (Heroku) : https://secret-temple-21796.herokuapp.com/
 
 
 ### Walkthrough video : https://youtu.be/42r18Qmvgk8
